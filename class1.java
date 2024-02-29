@@ -10,6 +10,8 @@ public class class1 {
 	String modificacion6;
 	
 	String modi1Ramamaster;
+	String modi2Ramamaster;
+
 	
 	
 }
