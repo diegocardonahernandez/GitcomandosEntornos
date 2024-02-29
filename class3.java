@@ -9,6 +9,7 @@ public class class3 {
 	
 	String modi1Ramamaster;
 	String modi2Ramamaster;
+	String modi3Ramamaster;
 
 	
 }

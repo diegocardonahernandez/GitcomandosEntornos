@@ -11,7 +11,7 @@ public class class1 {
 	
 	String modi1Ramamaster;
 	String modi2Ramamaster;
-
+	String modi3Ramamaster;
 	
 	
 }
