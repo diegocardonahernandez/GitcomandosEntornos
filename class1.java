@@ -5,5 +5,11 @@ public class class1 {
 	int num1;
 	int num2;
 	
+	int nuevaVariable;
+	
+	String modificacion6;
+	
+	String modi1Ramamaster;
+	
 	
 }
