@@ -13,5 +13,5 @@ public class class1 {
 	String modi2Ramamaster;
 	String modi3Ramamaster;
 	
-	
+	int num3;
 }
