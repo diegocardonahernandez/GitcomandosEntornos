@@ -13,5 +13,6 @@ public class class3 {
 	int num1;
 	int num2;
 	int numero 3;
+	int numero 4;
 	
 }
