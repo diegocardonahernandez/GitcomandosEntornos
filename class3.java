@@ -11,7 +11,7 @@ public class class3 {
 	String modi2Ramamaster;
 	String modi3Ramamaster;
 	int num1;
-	itn num2;
-
+	int num2;
+	int numero 3;
 	
 }
