@@ -11,5 +11,6 @@ public class class2 {
 	String modi2Ramamaster;
 	String modi3Ramamaster;
 	int num5;
+	int num6;
 
 }
