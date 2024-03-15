@@ -14,4 +14,5 @@ public class class1 {
 	String modi3Ramamaster;
 	
 	int num3;
+	int num4;
 }
