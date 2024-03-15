@@ -17,4 +17,5 @@ public class class1 {
 	int num4;
 	int num5;
 	int num6;
+	int num7;
 }
