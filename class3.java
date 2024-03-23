@@ -14,5 +14,6 @@ public class class3 {
 	int num2;
 	int numero 3;
 	int numero 4;
+	String modificacionRama;
 	
 }
