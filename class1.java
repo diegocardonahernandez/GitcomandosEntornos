@@ -2,7 +2,7 @@ package tareaGitcomandos;
 
 public class class1 {
 
-	<<<<<<< HEAD
+	
 	int num1;
 	int num2;
 	
@@ -19,8 +19,8 @@ public class class1 {
 	int num5;
 	int num6;
 	int num7;
-	=======
+	
 	
 	String modiRamanueva;
-	>>>>>>> ramaNueva
+	
 }
