@@ -18,4 +18,5 @@ public class class1 {
 	int num5;
 	int num6;
 	int num7;
+	String modiRamanueva;
 }
